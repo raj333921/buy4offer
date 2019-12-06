@@ -2,8 +2,8 @@
 A web application to get offers in Belgium accross all webshops and you can view based on your categories 
 
 Prerequisite:
-JDK 8
-Maven 3+
+JDK 8,
+Maven 3+,
 Intellij/Eclipse
 
 Commands to execute
