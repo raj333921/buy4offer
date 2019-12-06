@@ -1,2 +1,2 @@
-# onesourceweb
-A web application to manage authentication and documents related to the employee
+# Buy 4 offer
+A web application to get offers 
